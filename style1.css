@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#hoverBox {
+    width: 150px;
+    height: 150px;
+    background-color: lightgray;
+    margin: 20px auto;
+    line-height: 150px;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
